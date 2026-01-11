@@ -1,0 +1,126 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f8fafc;
+}
+header{
+    padding-top: 70px;
+    padding-bottom: 90px;
+    background-color: rgb(25, 168, 153);
+    text-align: center;
+    -webkit-text-fill-color: #fff;
+}
+.heading{
+    font-weight: 700;
+    font-size: 48px;
+}
+.get{
+    border-radius: 40px;
+    margin-top: 35px;
+    padding:15px;
+    background-color: #fff;
+    -webkit-text-fill-color: rgb(25,168,153);
+    text-decoration: none;
+}
+.p{
+    font-size: 18px;
+    margin-bottom: 50px;
+    max-width: 650px;
+    margin-left: 430px;
+}
+.secure{
+    text-align: center;
+    margin-top: 65px;
+}
+p{
+    text-align: center;
+    color: grey;
+}
+h3{
+    text-align: center;
+}
+.features{
+    background-color: #fff;
+    max-width: 325px;
+    border-radius: 20px;
+    margin: 45px;
+    padding: 35px;
+}
+.icon{
+    padding-left: 120px;
+    font-size: 55px;
+}
+.boxes{
+    padding-left: 15px;
+    padding-right: 15px;
+    display:flex;
+    gap: 5px;
+    margin: 0;
+    
+    justify-content:flex-start;
+}
+.one{
+    text-align: left;
+}
+.black{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+}
+.pin{
+    margin-left: 70px;
+}
+.Win{
+    text-align: left;
+    color:  rgb(25, 168, 153);;
+    line-height: 50px;
+    word-spacing: 12px;
+}
+.laptop{
+    background-color: rgb(112, 223, 216);
+    height: 250px;
+    border-radius: 20px;
+    width: 550px;
+    margin-right: 100px;
+    text-align:center ;
+    padding-top: 50px;
+    font-size: 100px;
+}
+.block{
+    background-color: rgba(209, 248, 255, 0.304);
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 25px;
+    padding-right: 50px ;
+    padding-left: 50px;
+    border-radius: 20px;
+    display: flex;
+    justify-content:space-between;
+}
+.o{
+    color:  rgb(25, 168, 153);
+}
+.box{
+    background-color:rgb(25, 168, 153);
+    color: #fff ;
+    text-align: center;
+    padding: 50px;
+    margin: 100px;
+    border-radius: 30px;
+    line-height: 45px;
+} 
+.join{
+    color: #fff;
+}
+.start{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 15px;
+    border-radius: 30px ;
+    /* border-color: #fff; */
+    border: none;
+    color: rgb(25, 168, 153);
+    font-weight: 600;
+    margin-top: 15px;
+}
